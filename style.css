@@ -1,0 +1,37 @@
+body {
+    text-align: center ;
+}
+
+h3 {
+    font-size: 30px ;
+    text-transform: uppercase;
+    color : gray ;
+    margin-top: 30px ;
+}
+
+.btn {
+    padding : 10px 25px ;
+    background-color: red;
+    color : black ;
+    border : none ;
+    border-radius: 6px ;
+}
+
+.btn-2 {
+    padding : 10px 25px ;
+    margin-top : 40px ;
+    background-color: red;
+    color : black ;
+    border : none ;
+    border-radius: 6px ;
+}
+
+.btn:hover {
+    background-color: coral;
+}
+
+p {
+    display: none ;
+    width : 300px ;
+    /* text-align : center ; */
+}
